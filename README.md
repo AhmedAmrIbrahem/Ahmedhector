@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-- 🔭 I’m currently working on **Freelancer & Human Resources**
+- 🔭 I’m currently working on **HR Genaralist**
 - 🌱 I’m currently learning **Backend Developer**
 
 
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" />
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="./assets/img/Laravel.svg.png" alt="laravel" width="50" height="50" />
+    <img src="./img/Laravel.svg.png" alt="laravel" width="50" height="50" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
@@ -87,9 +87,9 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" />
   </a>
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
-    <img src="./assets/img/notion.png" alt="notion" width="50" height="50" />
+    <img src="./img/notion.png" alt="notion" width="50" height="50" />
   </a>
   <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer">
-    <img src="./assets/img/XAMPP.png" alt="xampp" width="50" height="50" />
+    <img src="./img/XAMPP.png" alt="xampp" width="50" height="50" />
   </a>
 </p>
